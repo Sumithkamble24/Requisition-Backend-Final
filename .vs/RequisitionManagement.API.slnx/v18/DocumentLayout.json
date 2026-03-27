@@ -1,0 +1,387 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\00325099\\OneDrive - Nexer AB\\Desktop\\Requistion-Project\\RequisitionManagement.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0871339-B604-6B68-D907-0866411D3E84}|RequisitionManagement.API\\RequisitionManagement.API.csproj|c:\\users\\00325099\\onedrive - nexer ab\\desktop\\requistion-project\\requisitionmanagement.api\\requisitionmanagement.api\\controllers\\recruitercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0871339-B604-6B68-D907-0866411D3E84}|RequisitionManagement.API\\RequisitionManagement.API.csproj|solutionrelative:requisitionmanagement.api\\controllers\\recruitercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0871339-B604-6B68-D907-0866411D3E84}|RequisitionManagement.API\\RequisitionManagement.API.csproj|c:\\users\\00325099\\onedrive - nexer ab\\desktop\\requistion-project\\requisitionmanagement.api\\requisitionmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0871339-B604-6B68-D907-0866411D3E84}|RequisitionManagement.API\\RequisitionManagement.API.csproj|solutionrelative:requisitionmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0871339-B604-6B68-D907-0866411D3E84}|RequisitionManagement.API\\RequisitionManagement.API.csproj|c:\\users\\00325099\\onedrive - nexer ab\\desktop\\requistion-project\\requisitionmanagement.api\\requisitionmanagement.api\\controllers\\approvalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0871339-B604-6B68-D907-0866411D3E84}|RequisitionManagement.API\\RequisitionManagement.API.csproj|solutionrelative:requisitionmanagement.api\\controllers\\approvalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0871339-B604-6B68-D907-0866411D3E84}|RequisitionManagement.API\\RequisitionManagement.API.csproj|c:\\users\\00325099\\onedrive - nexer ab\\desktop\\requistion-project\\requisitionmanagement.api\\requisitionmanagement.api\\models\\requisition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0871339-B604-6B68-D907-0866411D3E84}|RequisitionManagement.API\\RequisitionManagement.API.csproj|solutionrelative:requisitionmanagement.api\\models\\requisition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0871339-B604-6B68-D907-0866411D3E84}|RequisitionManagement.API\\RequisitionManagement.API.csproj|c:\\users\\00325099\\onedrive - nexer ab\\desktop\\requistion-project\\requisitionmanagement.api\\requisitionmanagement.api\\repositories\\requisitionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0871339-B604-6B68-D907-0866411D3E84}|RequisitionManagement.API\\RequisitionManagement.API.csproj|solutionrelative:requisitionmanagement.api\\repositories\\requisitionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0871339-B604-6B68-D907-0866411D3E84}|RequisitionManagement.API\\RequisitionManagement.API.csproj|c:\\users\\00325099\\onedrive - nexer ab\\desktop\\requistion-project\\requisitionmanagement.api\\requisitionmanagement.api\\dtos\\approvaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0871339-B604-6B68-D907-0866411D3E84}|RequisitionManagement.API\\RequisitionManagement.API.csproj|solutionrelative:requisitionmanagement.api\\dtos\\approvaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0871339-B604-6B68-D907-0866411D3E84}|RequisitionManagement.API\\RequisitionManagement.API.csproj|c:\\users\\00325099\\onedrive - nexer ab\\desktop\\requistion-project\\requisitionmanagement.api\\requisitionmanagement.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0871339-B604-6B68-D907-0866411D3E84}|RequisitionManagement.API\\RequisitionManagement.API.csproj|solutionrelative:requisitionmanagement.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0871339-B604-6B68-D907-0866411D3E84}|RequisitionManagement.API\\RequisitionManagement.API.csproj|c:\\users\\00325099\\onedrive - nexer ab\\desktop\\requistion-project\\requisitionmanagement.api\\requisitionmanagement.api\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0871339-B604-6B68-D907-0866411D3E84}|RequisitionManagement.API\\RequisitionManagement.API.csproj|solutionrelative:requisitionmanagement.api\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\00325099\\source\\repos\\SQLQuery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0871339-B604-6B68-D907-0866411D3E84}|RequisitionManagement.API\\RequisitionManagement.API.csproj|c:\\users\\00325099\\onedrive - nexer ab\\desktop\\requistion-project\\requisitionmanagement.api\\requisitionmanagement.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0871339-B604-6B68-D907-0866411D3E84}|RequisitionManagement.API\\RequisitionManagement.API.csproj|solutionrelative:requisitionmanagement.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0871339-B604-6B68-D907-0866411D3E84}|RequisitionManagement.API\\RequisitionManagement.API.csproj|c:\\users\\00325099\\onedrive - nexer ab\\desktop\\requistion-project\\requisitionmanagement.api\\requisitionmanagement.api\\requisitionmanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B0871339-B604-6B68-D907-0866411D3E84}|RequisitionManagement.API\\RequisitionManagement.API.csproj|solutionrelative:requisitionmanagement.api\\requisitionmanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\00325099\\source\\repos\\Requisition-managemnet.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\00325099\\OneDrive - Nexer AB\\Desktop\\Requistion-Project\\RequisitionManagement.API\\RequisitionManagement.API\\Migrations\\20260326102545_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RequisitionManagement.API\\Migrations\\20260326102545_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\00325099\\source\\repos\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\00325099\\OneDrive - Nexer AB\\Desktop\\Requistion-Project\\RequisitionManagement.API\\RequisitionManagement.API\\Migrations\\20260326073411_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RequisitionManagement.API\\Migrations\\20260326073411_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\00325099\\OneDrive - Nexer AB\\Desktop\\Requistion-Project\\RequisitionManagement.API\\RequisitionManagement.API\\Migrations\\20260326073103_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RequisitionManagement.API\\Migrations\\20260326073103_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0871339-B604-6B68-D907-0866411D3E84}|RequisitionManagement.API\\RequisitionManagement.API.csproj|c:\\users\\00325099\\onedrive - nexer ab\\desktop\\requistion-project\\requisitionmanagement.api\\requisitionmanagement.api\\migrations\\20260326110442_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0871339-B604-6B68-D907-0866411D3E84}|RequisitionManagement.API\\RequisitionManagement.API.csproj|solutionrelative:requisitionmanagement.api\\migrations\\20260326110442_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0871339-B604-6B68-D907-0866411D3E84}|RequisitionManagement.API\\RequisitionManagement.API.csproj|c:\\users\\00325099\\onedrive - nexer ab\\desktop\\requistion-project\\requisitionmanagement.api\\requisitionmanagement.api\\controllers\\requisitionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0871339-B604-6B68-D907-0866411D3E84}|RequisitionManagement.API\\RequisitionManagement.API.csproj|solutionrelative:requisitionmanagement.api\\controllers\\requisitionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0871339-B604-6B68-D907-0866411D3E84}|RequisitionManagement.API\\RequisitionManagement.API.csproj|c:\\users\\00325099\\onedrive - nexer ab\\desktop\\requistion-project\\requisitionmanagement.api\\requisitionmanagement.api\\dtos\\createrequisitiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0871339-B604-6B68-D907-0866411D3E84}|RequisitionManagement.API\\RequisitionManagement.API.csproj|solutionrelative:requisitionmanagement.api\\dtos\\createrequisitiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0871339-B604-6B68-D907-0866411D3E84}|RequisitionManagement.API\\RequisitionManagement.API.csproj|c:\\users\\00325099\\onedrive - nexer ab\\desktop\\requistion-project\\requisitionmanagement.api\\requisitionmanagement.api\\services\\requisitionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0871339-B604-6B68-D907-0866411D3E84}|RequisitionManagement.API\\RequisitionManagement.API.csproj|solutionrelative:requisitionmanagement.api\\services\\requisitionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0871339-B604-6B68-D907-0866411D3E84}|RequisitionManagement.API\\RequisitionManagement.API.csproj|c:\\users\\00325099\\onedrive - nexer ab\\desktop\\requistion-project\\requisitionmanagement.api\\requisitionmanagement.api\\models\\approval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0871339-B604-6B68-D907-0866411D3E84}|RequisitionManagement.API\\RequisitionManagement.API.csproj|solutionrelative:requisitionmanagement.api\\models\\approval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0871339-B604-6B68-D907-0866411D3E84}|RequisitionManagement.API\\RequisitionManagement.API.csproj|c:\\users\\00325099\\onedrive - nexer ab\\desktop\\requistion-project\\requisitionmanagement.api\\requisitionmanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B0871339-B604-6B68-D907-0866411D3E84}|RequisitionManagement.API\\RequisitionManagement.API.csproj|solutionrelative:requisitionmanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0871339-B604-6B68-D907-0866411D3E84}|RequisitionManagement.API\\RequisitionManagement.API.csproj|c:\\users\\00325099\\onedrive - nexer ab\\desktop\\requistion-project\\requisitionmanagement.api\\requisitionmanagement.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0871339-B604-6B68-D907-0866411D3E84}|RequisitionManagement.API\\RequisitionManagement.API.csproj|solutionrelative:requisitionmanagement.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecruiterController.cs",
+              "DocumentMoniker": "C:\\Users\\00325099\\OneDrive - Nexer AB\\Desktop\\Requistion-Project\\RequisitionManagement.API\\RequisitionManagement.API\\Controllers\\RecruiterController.cs",
+              "RelativeDocumentMoniker": "RequisitionManagement.API\\Controllers\\RecruiterController.cs",
+              "ToolTip": "C:\\Users\\00325099\\OneDrive - Nexer AB\\Desktop\\Requistion-Project\\RequisitionManagement.API\\RequisitionManagement.API\\Controllers\\RecruiterController.cs",
+              "RelativeToolTip": "RequisitionManagement.API\\Controllers\\RecruiterController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAqwB8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T06:41:24.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApprovalsController.cs",
+              "DocumentMoniker": "C:\\Users\\00325099\\OneDrive - Nexer AB\\Desktop\\Requistion-Project\\RequisitionManagement.API\\RequisitionManagement.API\\Controllers\\ApprovalsController.cs",
+              "RelativeDocumentMoniker": "RequisitionManagement.API\\Controllers\\ApprovalsController.cs",
+              "ToolTip": "C:\\Users\\00325099\\OneDrive - Nexer AB\\Desktop\\Requistion-Project\\RequisitionManagement.API\\RequisitionManagement.API\\Controllers\\ApprovalsController.cs",
+              "RelativeToolTip": "RequisitionManagement.API\\Controllers\\ApprovalsController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAADwv14AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T18:18:10.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApprovalDto.cs",
+              "DocumentMoniker": "C:\\Users\\00325099\\OneDrive - Nexer AB\\Desktop\\Requistion-Project\\RequisitionManagement.API\\RequisitionManagement.API\\DTOs\\ApprovalDto.cs",
+              "RelativeDocumentMoniker": "RequisitionManagement.API\\DTOs\\ApprovalDto.cs",
+              "ToolTip": "C:\\Users\\00325099\\OneDrive - Nexer AB\\Desktop\\Requistion-Project\\RequisitionManagement.API\\RequisitionManagement.API\\DTOs\\ApprovalDto.cs",
+              "RelativeToolTip": "RequisitionManagement.API\\DTOs\\ApprovalDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T18:17:09.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\00325099\\OneDrive - Nexer AB\\Desktop\\Requistion-Project\\RequisitionManagement.API\\RequisitionManagement.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "RequisitionManagement.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\00325099\\OneDrive - Nexer AB\\Desktop\\Requistion-Project\\RequisitionManagement.API\\RequisitionManagement.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "RequisitionManagement.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwCIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T18:07:44.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\00325099\\OneDrive - Nexer AB\\Desktop\\Requistion-Project\\RequisitionManagement.API\\RequisitionManagement.API\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "RequisitionManagement.API\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\00325099\\OneDrive - Nexer AB\\Desktop\\Requistion-Project\\RequisitionManagement.API\\RequisitionManagement.API\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "RequisitionManagement.API\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T18:06:50.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Requisition-managemnet.sql",
+              "DocumentMoniker": "C:\\Users\\00325099\\source\\repos\\Requisition-managemnet.sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\Requisition-managemnet.sql",
+              "ToolTip": "C:\\Users\\00325099\\source\\repos\\Requisition-managemnet.sql",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\Requisition-managemnet.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-26T11:07:20.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20260326110442_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\00325099\\OneDrive - Nexer AB\\Desktop\\Requistion-Project\\RequisitionManagement.API\\RequisitionManagement.API\\Migrations\\20260326110442_InitialCreate.cs",
+              "RelativeDocumentMoniker": "RequisitionManagement.API\\Migrations\\20260326110442_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\00325099\\OneDrive - Nexer AB\\Desktop\\Requistion-Project\\RequisitionManagement.API\\RequisitionManagement.API\\Migrations\\20260326110442_InitialCreate.cs",
+              "RelativeToolTip": "RequisitionManagement.API\\Migrations\\20260326110442_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T11:04:42.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RequisitionsController.cs",
+              "DocumentMoniker": "C:\\Users\\00325099\\OneDrive - Nexer AB\\Desktop\\Requistion-Project\\RequisitionManagement.API\\RequisitionManagement.API\\Controllers\\RequisitionsController.cs",
+              "RelativeDocumentMoniker": "RequisitionManagement.API\\Controllers\\RequisitionsController.cs",
+              "ToolTip": "C:\\Users\\00325099\\OneDrive - Nexer AB\\Desktop\\Requistion-Project\\RequisitionManagement.API\\RequisitionManagement.API\\Controllers\\RequisitionsController.cs",
+              "RelativeToolTip": "RequisitionManagement.API\\Controllers\\RequisitionsController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAmwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T10:44:34.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreateRequisitionDto.cs",
+              "DocumentMoniker": "C:\\Users\\00325099\\OneDrive - Nexer AB\\Desktop\\Requistion-Project\\RequisitionManagement.API\\RequisitionManagement.API\\DTOs\\CreateRequisitionDto.cs",
+              "RelativeDocumentMoniker": "RequisitionManagement.API\\DTOs\\CreateRequisitionDto.cs",
+              "ToolTip": "C:\\Users\\00325099\\OneDrive - Nexer AB\\Desktop\\Requistion-Project\\RequisitionManagement.API\\RequisitionManagement.API\\DTOs\\CreateRequisitionDto.cs",
+              "RelativeToolTip": "RequisitionManagement.API\\DTOs\\CreateRequisitionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T10:41:41.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RequisitionService.cs",
+              "DocumentMoniker": "C:\\Users\\00325099\\OneDrive - Nexer AB\\Desktop\\Requistion-Project\\RequisitionManagement.API\\RequisitionManagement.API\\Services\\RequisitionService.cs",
+              "RelativeDocumentMoniker": "RequisitionManagement.API\\Services\\RequisitionService.cs",
+              "ToolTip": "C:\\Users\\00325099\\OneDrive - Nexer AB\\Desktop\\Requistion-Project\\RequisitionManagement.API\\RequisitionManagement.API\\Services\\RequisitionService.cs",
+              "RelativeToolTip": "RequisitionManagement.API\\Services\\RequisitionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T10:35:24.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RequisitionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\00325099\\OneDrive - Nexer AB\\Desktop\\Requistion-Project\\RequisitionManagement.API\\RequisitionManagement.API\\Repositories\\RequisitionRepository.cs",
+              "RelativeDocumentMoniker": "RequisitionManagement.API\\Repositories\\RequisitionRepository.cs",
+              "ToolTip": "C:\\Users\\00325099\\OneDrive - Nexer AB\\Desktop\\Requistion-Project\\RequisitionManagement.API\\RequisitionManagement.API\\Repositories\\RequisitionRepository.cs",
+              "RelativeToolTip": "RequisitionManagement.API\\Repositories\\RequisitionRepository.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAuwC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T10:34:28.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SQLQuery2.sql",
+              "DocumentMoniker": "C:\\Users\\00325099\\source\\repos\\SQLQuery2.sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\SQLQuery2.sql",
+              "ToolTip": "C:\\Users\\00325099\\source\\repos\\SQLQuery2.sql",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\SQLQuery2.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-26T10:28:36.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20260326102545_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\00325099\\OneDrive - Nexer AB\\Desktop\\Requistion-Project\\RequisitionManagement.API\\RequisitionManagement.API\\Migrations\\20260326102545_InitialCreate.cs",
+              "RelativeDocumentMoniker": "RequisitionManagement.API\\Migrations\\20260326102545_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\00325099\\OneDrive - Nexer AB\\Desktop\\Requistion-Project\\RequisitionManagement.API\\RequisitionManagement.API\\Migrations\\20260326102545_InitialCreate.cs",
+              "RelativeToolTip": "RequisitionManagement.API\\Migrations\\20260326102545_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T10:25:45.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Approval.cs",
+              "DocumentMoniker": "C:\\Users\\00325099\\OneDrive - Nexer AB\\Desktop\\Requistion-Project\\RequisitionManagement.API\\RequisitionManagement.API\\Models\\Approval.cs",
+              "RelativeDocumentMoniker": "RequisitionManagement.API\\Models\\Approval.cs",
+              "ToolTip": "C:\\Users\\00325099\\OneDrive - Nexer AB\\Desktop\\Requistion-Project\\RequisitionManagement.API\\RequisitionManagement.API\\Models\\Approval.cs",
+              "RelativeToolTip": "RequisitionManagement.API\\Models\\Approval.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T10:06:52.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SQLQuery1.sql",
+              "DocumentMoniker": "C:\\Users\\00325099\\source\\repos\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\SQLQuery1.sql",
+              "ToolTip": "C:\\Users\\00325099\\source\\repos\\SQLQuery1.sql",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\SQLQuery1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-26T09:05:51.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20260326073411_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\00325099\\OneDrive - Nexer AB\\Desktop\\Requistion-Project\\RequisitionManagement.API\\RequisitionManagement.API\\Migrations\\20260326073411_InitialCreate.cs",
+              "RelativeDocumentMoniker": "RequisitionManagement.API\\Migrations\\20260326073411_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\00325099\\OneDrive - Nexer AB\\Desktop\\Requistion-Project\\RequisitionManagement.API\\RequisitionManagement.API\\Migrations\\20260326073411_InitialCreate.cs",
+              "RelativeToolTip": "RequisitionManagement.API\\Migrations\\20260326073411_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T07:34:11.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20260326073103_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\00325099\\OneDrive - Nexer AB\\Desktop\\Requistion-Project\\RequisitionManagement.API\\RequisitionManagement.API\\Migrations\\20260326073103_InitialCreate.cs",
+              "RelativeDocumentMoniker": "RequisitionManagement.API\\Migrations\\20260326073103_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\00325099\\OneDrive - Nexer AB\\Desktop\\Requistion-Project\\RequisitionManagement.API\\RequisitionManagement.API\\Migrations\\20260326073103_InitialCreate.cs",
+              "RelativeToolTip": "RequisitionManagement.API\\Migrations\\20260326073103_InitialCreate.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T07:31:03.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\00325099\\OneDrive - Nexer AB\\Desktop\\Requistion-Project\\RequisitionManagement.API\\RequisitionManagement.API\\appsettings.json",
+              "RelativeDocumentMoniker": "RequisitionManagement.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\00325099\\OneDrive - Nexer AB\\Desktop\\Requistion-Project\\RequisitionManagement.API\\RequisitionManagement.API\\appsettings.json",
+              "RelativeToolTip": "RequisitionManagement.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-26T07:27:52.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\00325099\\OneDrive - Nexer AB\\Desktop\\Requistion-Project\\RequisitionManagement.API\\RequisitionManagement.API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "RequisitionManagement.API\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\00325099\\OneDrive - Nexer AB\\Desktop\\Requistion-Project\\RequisitionManagement.API\\RequisitionManagement.API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "RequisitionManagement.API\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwBcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T07:27:04.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Requisition.cs",
+              "DocumentMoniker": "C:\\Users\\00325099\\OneDrive - Nexer AB\\Desktop\\Requistion-Project\\RequisitionManagement.API\\RequisitionManagement.API\\Models\\Requisition.cs",
+              "RelativeDocumentMoniker": "RequisitionManagement.API\\Models\\Requisition.cs",
+              "ToolTip": "C:\\Users\\00325099\\OneDrive - Nexer AB\\Desktop\\Requistion-Project\\RequisitionManagement.API\\RequisitionManagement.API\\Models\\Requisition.cs",
+              "RelativeToolTip": "RequisitionManagement.API\\Models\\Requisition.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T07:25:29.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\00325099\\OneDrive - Nexer AB\\Desktop\\Requistion-Project\\RequisitionManagement.API\\RequisitionManagement.API\\Models\\User.cs",
+              "RelativeDocumentMoniker": "RequisitionManagement.API\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\00325099\\OneDrive - Nexer AB\\Desktop\\Requistion-Project\\RequisitionManagement.API\\RequisitionManagement.API\\Models\\User.cs",
+              "RelativeToolTip": "RequisitionManagement.API\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T07:25:03.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RequisitionManagement.API.csproj",
+              "DocumentMoniker": "C:\\Users\\00325099\\OneDrive - Nexer AB\\Desktop\\Requistion-Project\\RequisitionManagement.API\\RequisitionManagement.API\\RequisitionManagement.API.csproj",
+              "RelativeDocumentMoniker": "RequisitionManagement.API\\RequisitionManagement.API.csproj",
+              "ToolTip": "C:\\Users\\00325099\\OneDrive - Nexer AB\\Desktop\\Requistion-Project\\RequisitionManagement.API\\RequisitionManagement.API\\RequisitionManagement.API.csproj",
+              "RelativeToolTip": "RequisitionManagement.API\\RequisitionManagement.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-26T07:18:32.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\00325099\\OneDrive - Nexer AB\\Desktop\\Requistion-Project\\RequisitionManagement.API\\RequisitionManagement.API\\Program.cs",
+              "RelativeDocumentMoniker": "RequisitionManagement.API\\Program.cs",
+              "ToolTip": "C:\\Users\\00325099\\OneDrive - Nexer AB\\Desktop\\Requistion-Project\\RequisitionManagement.API\\RequisitionManagement.API\\Program.cs",
+              "RelativeToolTip": "RequisitionManagement.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T07:16:59.408Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

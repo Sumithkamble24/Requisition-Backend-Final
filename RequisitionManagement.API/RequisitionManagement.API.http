@@ -1,0 +1,6 @@
+@RequisitionManagement.API_HostAddress = http://localhost:5291
+
+GET {{RequisitionManagement.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
