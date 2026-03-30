@@ -97,5 +97,41 @@ namespace RequisitionManagement.API.Controllers
 
             return Ok(new { message = "Rejected successfully", status = requisition.Status });
         }
+
+        // ✅ NEW: Get approval history for a requisition (ADDED ONLY)
+        [HttpGet("{requisitionId}/history")]
+        public async Task<IActionResult> GetHistory(int requisitionId)
+        {
+            var history = await _context.Approvals
+                .Include(a => a.Approver)
+                .Where(a => a.RequisitionId == requisitionId)
+                .OrderBy(a => a.ActionDate)
+                .Select(a => new
+                {
+                    id = a.Id,
+                    requisitionId = a.RequisitionId,
+                    approverId = a.ApproverId,
+                    approvalLevel = a.ApprovalLevel,
+                    status = a.Status,
+                    comments = a.Comments,
+                    actionDate = a.ActionDate,
+
+                    // null safety
+                    approver = a.Approver == null ? null : new
+                    {
+                        id = a.Approver.Id,
+                        username = a.Approver.Username,
+                        role = a.Approver.Role
+                    }
+                })
+                .ToListAsync();
+
+            if (history == null || history.Count == 0)
+            {
+                return Ok(new List<object>());
+            }
+
+            return Ok(history);
+        }
     }
 }

@@ -43,6 +43,22 @@
   },
   {
     "ContainingType": "RequisitionManagement.API.Controllers.ApprovalsController",
+    "Method": "GetHistory",
+    "RelativePath": "api/approvals/{requisitionId}/history",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "requisitionId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RequisitionManagement.API.Controllers.ApprovalsController",
     "Method": "GetPending",
     "RelativePath": "api/approvals/pending",
     "HttpMethod": "GET",
